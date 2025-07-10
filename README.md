@@ -3,7 +3,7 @@
 # Team Logo
 <img width="360" height="360" alt="Team_Logo" src="https://github.com/user-attachments/assets/6185ee47-3166-47b8-b149-62e489368165" />
 
-
+Above is our official team logo, which shows ou teamwork and collaboration spirit. 
 
 Piggy-Pon – Smart Savings Tracker for Kids, Teens, and Students
 Piggy-Pon is a web-based smart piggybank platform that helps users—especially students and young savers—develop better saving habits through a connected, goal-driven experience. Built to work seamlessly with a physical ESP-based coin-counting device, Piggy-Pon transforms coin drops into visual progress and real-time savings insights.
